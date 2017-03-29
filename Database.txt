@@ -1,0 +1,3 @@
+url- http://50.56.246.162/phpmyadmin40
+user-hiren
+password- hirenputu
